@@ -139,4 +139,3 @@ Next, the *ggarrange* function of **ggpur** package is used to group these histo
 ggarrange(fa, va, ca, rs, ch, fSO2, tSO2, density, pH, sulphates, alcohol, 
           ncol = 4, nrow = 3)
 
-# Testing testing 1 2 3
